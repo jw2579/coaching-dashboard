@@ -67,5 +67,5 @@
 - Single chat window for this tab
 
 ## Chat System
-- one on one Chat
+- one-on-one Chat
 - Group Chat
