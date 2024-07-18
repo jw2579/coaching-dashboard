@@ -3,7 +3,8 @@
 <img width="1146" alt="Screenshot 2024-07-18 at 8 32 33 AM" src="https://github.com/user-attachments/assets/4cd64cca-9b9e-4fec-882e-4fe08565f128">
 
 ## Chat Page
-<img width="999" alt="Screenshot 2024-07-18 at 8 31 11 AM" src="https://github.com/user-attachments/assets/48df886f-5f94-451e-9d9d-c3a7e62fb6a7">
+<img width="1185" alt="Screenshot 2024-07-18 at 8 35 21 AM" src="https://github.com/user-attachments/assets/6383eca1-6bba-488d-80d4-76724fc84c9f">
+
 
 # Coach Dashboard Features
 ## Nutrition
