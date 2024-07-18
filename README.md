@@ -1,8 +1,11 @@
-# Coach Dashboard Features
-<img width="1137" alt="Screenshot 2024-07-18 at 8 30 35 AM" src="https://github.com/user-attachments/assets/a7da02ad-5306-466c-81f7-7007439cc89d">
+# Coach Dashboard Example Pages
+## Client Profile Page
+<img width="1146" alt="Screenshot 2024-07-18 at 8 32 33 AM" src="https://github.com/user-attachments/assets/4cd64cca-9b9e-4fec-882e-4fe08565f128">
+
+## Chat Page
 <img width="999" alt="Screenshot 2024-07-18 at 8 31 11 AM" src="https://github.com/user-attachments/assets/48df886f-5f94-451e-9d9d-c3a7e62fb6a7">
 
-
+# Coach Dashboard Features
 ## Nutrition
 - **Day**: Goal and current readings (live reading)
     - Calories
