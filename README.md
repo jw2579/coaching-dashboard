@@ -65,6 +65,6 @@
 - Current program (In 4-week challenge OR 1-1 coaching)
 - Single chat window for this tab
 
-## User Info
+## Chat System
 - one on one Chat
 - Group Chat
