@@ -1,6 +1,7 @@
 # Coach Dashboard Features
-![WhatsApp Image 2024-07-17 at 10 08 37](https://github.com/user-attachments/assets/78a94328-38a3-4622-b4e4-d24d07fdc397)
-![WhatsApp Image 2024-07-17 at 10 08 37](https://github.com/user-attachments/assets/7ac38d93-48b7-494c-b8b0-e60d11b31151)
+<img width="1137" alt="Screenshot 2024-07-18 at 8 30 35 AM" src="https://github.com/user-attachments/assets/a7da02ad-5306-466c-81f7-7007439cc89d">
+<img width="999" alt="Screenshot 2024-07-18 at 8 31 11 AM" src="https://github.com/user-attachments/assets/48df886f-5f94-451e-9d9d-c3a7e62fb6a7">
+
 
 ## Nutrition
 - **Day**: Goal and current readings (live reading)
